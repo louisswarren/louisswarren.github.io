@@ -11,5 +11,6 @@ customisable; by default it turns on `todonotes`, `showlabels`, and shows the
 relevant git commit information.
 
 
-Repo: https://github.com/louisswarren/latex-template
+Repo: [https://github.com/louisswarren/latex-template](
+	https://github.com/louisswarren/latex-template)
 
