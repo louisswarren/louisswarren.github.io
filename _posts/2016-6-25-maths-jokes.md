@@ -16,3 +16,5 @@ maths jokes which I don't want to forget.
   to three blondes, thereby reducing the situation to a previously solved
   problem.
 
+* The pigeonhole principle: If you drill n + 1 holes in n pigeons, at least one
+  pigeon has two holes in it.
