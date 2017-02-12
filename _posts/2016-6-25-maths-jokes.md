@@ -18,3 +18,5 @@ maths jokes which I don't want to forget.
 
 * The pigeonhole principle: If you drill n + 1 holes in n pigeons, at least one
   pigeon has two holes in it.
+
+* co
