@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thesis in Three: Minimal Logic
+title: Thesis in Three - Minimal Logic
 ---
 
 Slide my thesis in three presentation on minimal logic.
