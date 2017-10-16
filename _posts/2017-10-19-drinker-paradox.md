@@ -1,0 +1,24 @@
+---
+layout: page
+title: Classifying the Drinker Paradox and its Dual
+---
+
+Slides for a talk I am giving at Swansea University
+
+
+##### Abstract
+
+Informally, the drinker paradox may be stated as "in every non-empty pub there
+is a person such that if that person is drinking, everybody in the pub is
+drinking". The dual of the drinker paradox is a formulation of Hilbert's
+epsilon operator for the existential quantifier. Both are theorems of classical
+logic, but non-constructive. They are independent of each other, and of the law
+of excluded middle, but each is sufficient to derive the limited principle of
+omniscience for binary sequences, and thus is analytically powerful. Kripke
+semantics can be used to classify the strength of these statements over
+intuitionistic and minimal logic.
+
+###### Download Link
+Presentation Slides (Not completed yet)
+
+
