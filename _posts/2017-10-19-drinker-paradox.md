@@ -19,6 +19,7 @@ semantics can be used to classify the strength of these statements over
 intuitionistic and minimal logic.
 
 ###### Download Link
-Presentation Slides (Not completed yet)
+[Presentation Slides](
+	https://drive.google.com/open?id=0BxQ7IgGGV_QKNmsycG9KSWNoVEk)
 
 
