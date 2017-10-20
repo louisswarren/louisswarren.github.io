@@ -3,7 +3,7 @@ layout: page
 title: Classifying the Drinker Paradox and its Dual
 ---
 
-Slides for a talk I am giving at Swansea University
+Slides for a seminar I gave at Swansea University
 
 
 ##### Abstract
