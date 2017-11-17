@@ -3,7 +3,7 @@ layout: page
 title: Classifying the Drinker Paradox and its Dual
 ---
 
-Slides for a seminar I gave at Swansea University
+Slides for a seminar I gave at Swansea University and the University of Padua
 
 
 ##### Abstract
@@ -19,7 +19,10 @@ semantics can be used to classify the strength of these statements over
 intuitionistic and minimal logic.
 
 ###### Download Link
+
 [Presentation Slides](
+	https://drive.google.com/open?id=1LKnMBvQSJkGITp14sl8Es3BOi4BJ9Io4)
+
+[Old version](
 	https://drive.google.com/open?id=0BxQ7IgGGV_QKNmsycG9KSWNoVEk)
-
-
+	- Used in Swansea, just missing slides 10 and 12.
