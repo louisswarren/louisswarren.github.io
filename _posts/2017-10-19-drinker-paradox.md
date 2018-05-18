@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seminar on Classifying the Drinker Paradox and its Dual
+title: Seminar - The Drinker Paradox and its Dual
 ---
 
 Slides for a seminar I gave at Swansea University and the University of Padua
