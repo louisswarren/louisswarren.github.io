@@ -3,10 +3,10 @@ layout: page
 title: Seminar - The Drinker Paradox and its Dual
 ---
 
-Slides for a seminar I gave at Swansea University and the University of Padua
+Slides for a seminar I gave at Swansea University and the University of Padua.
 
-# Update
-A paper on this topic has since been written (see
+#### Update
+A paper on this topic has since been written (posted
 [here](/drinker-paradox-paper)).
 
 ##### Abstract
@@ -25,7 +25,3 @@ intuitionistic and minimal logic.
 
 [Presentation Slides](
 	https://drive.google.com/open?id=1LKnMBvQSJkGITp14sl8Es3BOi4BJ9Io4)
-
-[Old version](
-	https://drive.google.com/open?id=0BxQ7IgGGV_QKNmsycG9KSWNoVEk)
-	- Used in Swansea, just missing slides 10 and 12.
