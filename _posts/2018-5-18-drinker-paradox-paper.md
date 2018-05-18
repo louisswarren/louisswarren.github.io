@@ -20,4 +20,4 @@ providing proofs and semantic models where appropriate.
 
 ###### Arxiv link
 
-https://arxiv.org/abs/1805.06216
+[https://arxiv.org/abs/1805.06216](https://arxiv.org/abs/1805.06216)
