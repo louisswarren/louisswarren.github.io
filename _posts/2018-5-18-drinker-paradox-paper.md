@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drinker Paradox and its Dual
+title: The Drinker Paradox and its Dual
 ---
 
 ##### Abstract
