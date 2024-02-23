@@ -51,17 +51,18 @@ for an enter press.
  		echo -e "$*" >"$tmpfile"
  		if [ "$DISPLAY" = "" ]; then
 -			cat $tmpfile; echo -n 'Press enter to continue: '; read input
-+			cat $tmpfile; echo -n 'Do not need to press enter to continue: '
++			cat $tmpfile; echo -n 'Do not need to press enter to continue.'
  		else
 -			xterm -T "$title" -e "cat $tmpfile; echo -n 'Press enter to continue: '; read input"
-+			xterm -T "$title" -e "cat $tmpfile; echo -n 'Do not need to press enter to continue: '"
++			xterm -T "$title" -e "cat $tmpfile; echo -n 'Do not need to press enter to continue.'"
  		fi
  		rm -f "$tmpfile"
  	fi
 @@ -98,7 +98,6 @@
  sudo cp -v $TOP/udev/modules-load.d/* /etc/modules-load.d/ && sudo modprobe uinput && sleep 3
  sudo cp -v $TOP/udev/rules.d/$UDEV_RULES_FILE $UDEV_RULES_DIR/$UDEV_RULES_FILE && sudo udevadm trigger && sudo usermod -a -G input,plugdev $(id -un)
- echo -n "Press return to continue: "
+-echo -n "Press return to continue: "
++echo -n "Do not need to press return to continue."
 -read line
  __EOF__
  	if [ "$DISPLAY" = "" ]; then
