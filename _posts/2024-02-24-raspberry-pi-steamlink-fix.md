@@ -31,7 +31,7 @@ are we supposed to press enter on RetroPie? It didn't even pop up a terminal!
 
 Incidentally, it seems like this error message is a red herring on the Pi 4,
 where
-(GPU memory is allocated by the kernel)[https://retropie.org.uk/docs/Memory-Split/#raspberry-pi-4].
+[GPU memory is allocated by the kernel](https://retropie.org.uk/docs/Memory-Split/#raspberry-pi-4).
 
 RetroPie triggers the script `/opt/retropie/ports/steamlink/steamlink_xinit.sh`
 which in turn runs `/usr/bin/steamlink`, which itself runs
