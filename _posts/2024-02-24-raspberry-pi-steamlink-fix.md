@@ -62,8 +62,8 @@ for an enter press.
  sudo cp -v $TOP/udev/modules-load.d/* /etc/modules-load.d/ && sudo modprobe uinput && sleep 3
  sudo cp -v $TOP/udev/rules.d/$UDEV_RULES_FILE $UDEV_RULES_DIR/$UDEV_RULES_FILE && sudo udevadm trigger && sudo usermod -a -G input,plugdev $(id -un)
 -echo -n "Press return to continue: "
-+echo -n "Do not need to press return to continue."
 -read line
++echo -n "Do not need to press return to continue."
  __EOF__
  	if [ "$DISPLAY" = "" ]; then
  		/bin/sh $script
