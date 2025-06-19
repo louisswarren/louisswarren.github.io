@@ -24,4 +24,4 @@ intuitionistic and minimal logic.
 ###### Download Link
 
 [Presentation Slides](
-	https://drive.google.com/open?id=1LKnMBvQSJkGITp14sl8Es3BOi4BJ9Io4)
+	https://github.com/user-attachments/files/20813641/drinker-paradox-louis-warren.pdf)

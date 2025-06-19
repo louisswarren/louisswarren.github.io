@@ -8,5 +8,4 @@ Slides for a talk I gave for my doctoral confirmation.
 
 ###### Download Link
 [Presentation Slides](
-	https://drive.google.com/open?id=0BxQ7IgGGV_QKVGFwX0V4OFR2V3c)
-
+	https://github.com/user-attachments/files/20813640/doctoral-confirmation-slides-louis-warren.pdf)

@@ -21,4 +21,5 @@ cannot be made constructive.
 
 
 ###### Download Link
-[Slides](https://drive.google.com/open?id=1zbnKrebyC6aGFKEpGLhPuJ9VYeLAdtRT)
+[Notes](
+	https://github.com/user-attachments/files/20813647/nonconstructive-criticism-louis-warren.pdf)
